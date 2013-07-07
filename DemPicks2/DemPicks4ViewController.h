@@ -1,5 +1,5 @@
 //
-//  DemPicks2ViewController.h
+//  DemPicks4ViewController.h
 //  DemPicks2
 //
 //  Created by Ryan Hestin on 7/6/13.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DemPicks2ViewController : UIViewController
-
-
+@interface DemPicks4ViewController : UIViewController
 
 @end

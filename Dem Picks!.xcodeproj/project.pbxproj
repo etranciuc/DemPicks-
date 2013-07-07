@@ -18,17 +18,22 @@
 		59A448E91787D50600DBC9C2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448E81787D50600DBC9C2 /* Default-568h@2x.png */; };
 		59A448EC1787D50600DBC9C2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59A448EA1787D50600DBC9C2 /* MainStoryboard.storyboard */; };
 		59A448EF1787D50600DBC9C2 /* DemPicks2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */; };
+		59A448F71788859C00DBC9C2 /* DemPicks3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */; };
+		59A448FA178885B500DBC9C2 /* DemPicks4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */; };
+		59A448FC17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FB17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png */; };
+		59A448FE1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FD1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png */; };
+		59A449001788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FF1788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		59A448CF1787D50600DBC9C2 /* DemPicks2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemPicks2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		59A448CF1787D50600DBC9C2 /* Dem Picks!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dem Picks!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59A448D21787D50600DBC9C2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		59A448D41787D50600DBC9C2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		59A448D61787D50600DBC9C2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		59A448DA1787D50600DBC9C2 /* DemPicks2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DemPicks2-Info.plist"; sourceTree = "<group>"; };
+		59A448DA1787D50600DBC9C2 /* Dem Picks!-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dem Picks!-Info.plist"; sourceTree = "<group>"; };
 		59A448DC1787D50600DBC9C2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		59A448DE1787D50600DBC9C2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		59A448E01787D50600DBC9C2 /* DemPicks2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DemPicks2-Prefix.pch"; sourceTree = "<group>"; };
+		59A448E01787D50600DBC9C2 /* Dem Picks!-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Dem Picks!-Prefix.pch"; sourceTree = "<group>"; };
 		59A448E11787D50600DBC9C2 /* DemPicks2AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemPicks2AppDelegate.h; sourceTree = "<group>"; };
 		59A448E21787D50600DBC9C2 /* DemPicks2AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemPicks2AppDelegate.m; sourceTree = "<group>"; };
 		59A448E41787D50600DBC9C2 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -37,6 +42,13 @@
 		59A448EB1787D50600DBC9C2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		59A448ED1787D50600DBC9C2 /* DemPicks2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemPicks2ViewController.h; sourceTree = "<group>"; };
 		59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemPicks2ViewController.m; sourceTree = "<group>"; };
+		59A448F51788859C00DBC9C2 /* DemPicks3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemPicks3ViewController.h; sourceTree = "<group>"; };
+		59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemPicks3ViewController.m; sourceTree = "<group>"; };
+		59A448F8178885B500DBC9C2 /* DemPicks4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemPicks4ViewController.h; sourceTree = "<group>"; };
+		59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemPicks4ViewController.m; sourceTree = "<group>"; };
+		59A448FB17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9f8471d81093d798ba64a4502c917182.png; sourceTree = "<group>"; };
+		59A448FD1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 084632dfed0868ee01561f1e56974810.png; sourceTree = "<group>"; };
+		59A448FF1788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0bd5ce8abc7655d5e493722f9296c67d.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,9 @@
 		59A448C61787D50600DBC9C2 = {
 			isa = PBXGroup;
 			children = (
+				59A448FF1788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png */,
+				59A448FD1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png */,
+				59A448FB17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png */,
 				59A448D81787D50600DBC9C2 /* DemPicks2 */,
 				59A448D11787D50600DBC9C2 /* Frameworks */,
 				59A448D01787D50600DBC9C2 /* Products */,
@@ -65,7 +80,7 @@
 		59A448D01787D50600DBC9C2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				59A448CF1787D50600DBC9C2 /* DemPicks2.app */,
+				59A448CF1787D50600DBC9C2 /* Dem Picks!.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,9 +98,11 @@
 		59A448D81787D50600DBC9C2 /* DemPicks2 */ = {
 			isa = PBXGroup;
 			children = (
-				59A448E11787D50600DBC9C2 /* DemPicks2AppDelegate.h */,
-				59A448E21787D50600DBC9C2 /* DemPicks2AppDelegate.m */,
 				59A448EA1787D50600DBC9C2 /* MainStoryboard.storyboard */,
+				59A448F51788859C00DBC9C2 /* DemPicks3ViewController.h */,
+				59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */,
+				59A448F8178885B500DBC9C2 /* DemPicks4ViewController.h */,
+				59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */,
 				59A448ED1787D50600DBC9C2 /* DemPicks2ViewController.h */,
 				59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */,
 				59A448D91787D50600DBC9C2 /* Supporting Files */,
@@ -96,10 +113,12 @@
 		59A448D91787D50600DBC9C2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				59A448DA1787D50600DBC9C2 /* DemPicks2-Info.plist */,
+				59A448E11787D50600DBC9C2 /* DemPicks2AppDelegate.h */,
+				59A448E21787D50600DBC9C2 /* DemPicks2AppDelegate.m */,
+				59A448DA1787D50600DBC9C2 /* Dem Picks!-Info.plist */,
 				59A448DB1787D50600DBC9C2 /* InfoPlist.strings */,
 				59A448DE1787D50600DBC9C2 /* main.m */,
-				59A448E01787D50600DBC9C2 /* DemPicks2-Prefix.pch */,
+				59A448E01787D50600DBC9C2 /* Dem Picks!-Prefix.pch */,
 				59A448E41787D50600DBC9C2 /* Default.png */,
 				59A448E61787D50600DBC9C2 /* Default@2x.png */,
 				59A448E81787D50600DBC9C2 /* Default-568h@2x.png */,
@@ -110,9 +129,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		59A448CE1787D50600DBC9C2 /* DemPicks2 */ = {
+		59A448CE1787D50600DBC9C2 /* Dem Picks! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 59A448F21787D50600DBC9C2 /* Build configuration list for PBXNativeTarget "DemPicks2" */;
+			buildConfigurationList = 59A448F21787D50600DBC9C2 /* Build configuration list for PBXNativeTarget "Dem Picks!" */;
 			buildPhases = (
 				59A448CB1787D50600DBC9C2 /* Sources */,
 				59A448CC1787D50600DBC9C2 /* Frameworks */,
@@ -122,9 +141,9 @@
 			);
 			dependencies = (
 			);
-			name = DemPicks2;
+			name = "Dem Picks!";
 			productName = DemPicks2;
-			productReference = 59A448CF1787D50600DBC9C2 /* DemPicks2.app */;
+			productReference = 59A448CF1787D50600DBC9C2 /* Dem Picks!.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +156,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Ryan Hestin";
 			};
-			buildConfigurationList = 59A448CA1787D50600DBC9C2 /* Build configuration list for PBXProject "DemPicks2" */;
+			buildConfigurationList = 59A448CA1787D50600DBC9C2 /* Build configuration list for PBXProject "Dem Picks!" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -149,7 +168,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				59A448CE1787D50600DBC9C2 /* DemPicks2 */,
+				59A448CE1787D50600DBC9C2 /* Dem Picks! */,
 			);
 		};
 /* End PBXProject section */
@@ -164,6 +183,9 @@
 				59A448E71787D50600DBC9C2 /* Default@2x.png in Resources */,
 				59A448E91787D50600DBC9C2 /* Default-568h@2x.png in Resources */,
 				59A448EC1787D50600DBC9C2 /* MainStoryboard.storyboard in Resources */,
+				59A448FC17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png in Resources */,
+				59A448FE1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png in Resources */,
+				59A449001788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +199,8 @@
 				59A448DF1787D50600DBC9C2 /* main.m in Sources */,
 				59A448E31787D50600DBC9C2 /* DemPicks2AppDelegate.m in Sources */,
 				59A448EF1787D50600DBC9C2 /* DemPicks2ViewController.m in Sources */,
+				59A448F71788859C00DBC9C2 /* DemPicks3ViewController.m in Sources */,
+				59A448FA178885B500DBC9C2 /* DemPicks4ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +286,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DemPicks2/DemPicks2-Prefix.pch";
-				INFOPLIST_FILE = "DemPicks2/DemPicks2-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "DemPicks2/Dem Picks!-Prefix.pch";
+				INFOPLIST_FILE = "DemPicks2/Dem Picks!-Info.plist";
+				PRODUCT_NAME = "Dem Picks!";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -273,9 +297,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DemPicks2/DemPicks2-Prefix.pch";
-				INFOPLIST_FILE = "DemPicks2/DemPicks2-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "DemPicks2/Dem Picks!-Prefix.pch";
+				INFOPLIST_FILE = "DemPicks2/Dem Picks!-Info.plist";
+				PRODUCT_NAME = "Dem Picks!";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -283,7 +307,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		59A448CA1787D50600DBC9C2 /* Build configuration list for PBXProject "DemPicks2" */ = {
+		59A448CA1787D50600DBC9C2 /* Build configuration list for PBXProject "Dem Picks!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				59A448F01787D50600DBC9C2 /* Debug */,
@@ -292,13 +316,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		59A448F21787D50600DBC9C2 /* Build configuration list for PBXNativeTarget "DemPicks2" */ = {
+		59A448F21787D50600DBC9C2 /* Build configuration list for PBXNativeTarget "Dem Picks!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				59A448F31787D50600DBC9C2 /* Debug */,
 				59A448F41787D50600DBC9C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
