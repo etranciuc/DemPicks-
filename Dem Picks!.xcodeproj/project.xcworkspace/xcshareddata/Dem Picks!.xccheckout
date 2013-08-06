@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7FB96374-0E67-4300-ABAB-0D6FC502AA23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dem Picks!</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E5D9D57-649A-4DAC-8639-C0B2022B6BC9</key>
+		<string>https://github.com/hestinr12/DemPicks-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dem Picks!.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E5D9D57-649A-4DAC-8639-C0B2022B6BC9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hestinr12/DemPicks-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E5D9D57-649A-4DAC-8639-C0B2022B6BC9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E5D9D57-649A-4DAC-8639-C0B2022B6BC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemPicks2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

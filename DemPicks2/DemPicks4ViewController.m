@@ -25,6 +25,10 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
+        self.Arrow1.enabled = false;
+        self.Arrow2.enabled = false;
+        self.Arrow3.enabled = false;
+        self.Arrow4.enabled = false;
     }
     return self;
 }

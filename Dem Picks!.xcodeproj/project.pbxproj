@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5920C6A9178FB91400D48BDE /* DemPicksViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5920C6A8178FB91400D48BDE /* DemPicksViewController.m */; };
 		59A448D31787D50600DBC9C2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59A448D21787D50600DBC9C2 /* UIKit.framework */; };
 		59A448D51787D50600DBC9C2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59A448D41787D50600DBC9C2 /* Foundation.framework */; };
 		59A448D71787D50600DBC9C2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59A448D61787D50600DBC9C2 /* CoreGraphics.framework */; };
@@ -17,15 +18,14 @@
 		59A448E71787D50600DBC9C2 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448E61787D50600DBC9C2 /* Default@2x.png */; };
 		59A448E91787D50600DBC9C2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448E81787D50600DBC9C2 /* Default-568h@2x.png */; };
 		59A448EC1787D50600DBC9C2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59A448EA1787D50600DBC9C2 /* MainStoryboard.storyboard */; };
-		59A448EF1787D50600DBC9C2 /* DemPicks2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */; };
-		59A448F71788859C00DBC9C2 /* DemPicks3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */; };
-		59A448FA178885B500DBC9C2 /* DemPicks4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */; };
 		59A448FC17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FB17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png */; };
 		59A448FE1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FD1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png */; };
 		59A449001788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png in Resources */ = {isa = PBXBuildFile; fileRef = 59A448FF1788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5920C6A7178FB91400D48BDE /* DemPicksViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemPicksViewController.h; sourceTree = "<group>"; };
+		5920C6A8178FB91400D48BDE /* DemPicksViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemPicksViewController.m; sourceTree = "<group>"; };
 		59A448CF1787D50600DBC9C2 /* Dem Picks!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dem Picks!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59A448D21787D50600DBC9C2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		59A448D41787D50600DBC9C2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -40,12 +40,6 @@
 		59A448E61787D50600DBC9C2 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		59A448E81787D50600DBC9C2 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		59A448EB1787D50600DBC9C2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		59A448ED1787D50600DBC9C2 /* DemPicks2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemPicks2ViewController.h; sourceTree = "<group>"; };
-		59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemPicks2ViewController.m; sourceTree = "<group>"; };
-		59A448F51788859C00DBC9C2 /* DemPicks3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemPicks3ViewController.h; sourceTree = "<group>"; };
-		59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemPicks3ViewController.m; sourceTree = "<group>"; };
-		59A448F8178885B500DBC9C2 /* DemPicks4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemPicks4ViewController.h; sourceTree = "<group>"; };
-		59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemPicks4ViewController.m; sourceTree = "<group>"; };
 		59A448FB17889BDF00DBC9C2 /* 9f8471d81093d798ba64a4502c917182.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9f8471d81093d798ba64a4502c917182.png; sourceTree = "<group>"; };
 		59A448FD1788A1DB00DBC9C2 /* 084632dfed0868ee01561f1e56974810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 084632dfed0868ee01561f1e56974810.png; sourceTree = "<group>"; };
 		59A448FF1788A1E100DBC9C2 /* 0bd5ce8abc7655d5e493722f9296c67d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0bd5ce8abc7655d5e493722f9296c67d.png; sourceTree = "<group>"; };
@@ -99,12 +93,8 @@
 			isa = PBXGroup;
 			children = (
 				59A448EA1787D50600DBC9C2 /* MainStoryboard.storyboard */,
-				59A448F51788859C00DBC9C2 /* DemPicks3ViewController.h */,
-				59A448F61788859C00DBC9C2 /* DemPicks3ViewController.m */,
-				59A448F8178885B500DBC9C2 /* DemPicks4ViewController.h */,
-				59A448F9178885B500DBC9C2 /* DemPicks4ViewController.m */,
-				59A448ED1787D50600DBC9C2 /* DemPicks2ViewController.h */,
-				59A448EE1787D50600DBC9C2 /* DemPicks2ViewController.m */,
+				5920C6A7178FB91400D48BDE /* DemPicksViewController.h */,
+				5920C6A8178FB91400D48BDE /* DemPicksViewController.m */,
 				59A448D91787D50600DBC9C2 /* Supporting Files */,
 			);
 			path = DemPicks2;
@@ -198,9 +188,7 @@
 			files = (
 				59A448DF1787D50600DBC9C2 /* main.m in Sources */,
 				59A448E31787D50600DBC9C2 /* DemPicks2AppDelegate.m in Sources */,
-				59A448EF1787D50600DBC9C2 /* DemPicks2ViewController.m in Sources */,
-				59A448F71788859C00DBC9C2 /* DemPicks3ViewController.m in Sources */,
-				59A448FA178885B500DBC9C2 /* DemPicks4ViewController.m in Sources */,
+				5920C6A9178FB91400D48BDE /* DemPicksViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +257,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -277,6 +266,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -285,10 +276,14 @@
 		59A448F31787D50600DBC9C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ryan Hestin (4ZNT3EGBLA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Ryan Hestin (4ZNT3EGBLA)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemPicks2/Dem Picks!-Prefix.pch";
 				INFOPLIST_FILE = "DemPicks2/Dem Picks!-Info.plist";
 				PRODUCT_NAME = "Dem Picks!";
+				PROVISIONING_PROFILE = "B2AD112B-50A8-4E8E-B2CF-549B2C84441E";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B2AD112B-50A8-4E8E-B2CF-549B2C84441E";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -296,10 +291,14 @@
 		59A448F41787D50600DBC9C2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ryan Hestin (47FD7QN82E)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ryan Hestin (47FD7QN82E)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemPicks2/Dem Picks!-Prefix.pch";
 				INFOPLIST_FILE = "DemPicks2/Dem Picks!-Info.plist";
 				PRODUCT_NAME = "Dem Picks!";
+				PROVISIONING_PROFILE = "905BBE90-D6F0-4356-922F-40FAB24FF2CB";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "905BBE90-D6F0-4356-922F-40FAB24FF2CB";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

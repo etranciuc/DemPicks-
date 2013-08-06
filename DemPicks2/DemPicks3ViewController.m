@@ -24,6 +24,10 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
+        self.Arrow1.enabled = false;
+        self.Arrow2.enabled = false;
+        self.Arrow3.enabled = false;
+        
         // Custom initialization
     }
     return self;
@@ -54,6 +58,7 @@
 }
 
 - (IBAction)RandomizeArrow:(id)sender {
+    
     self.Arrow1.enabled = false;
     self.Arrow2.enabled = false;
     self.Arrow3.enabled = false;
@@ -75,6 +80,9 @@
     }
 
 }
+
+
+
 
 
 @end
